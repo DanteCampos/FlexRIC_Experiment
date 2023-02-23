@@ -4,7 +4,7 @@ To install FlexRIC and all it's dependencies, first install the [Kitware APT Rep
 
 Then, clone this repository with
 
-```git clone github.com/DanteCampos/FlexRIC_Experiment```
+```git clone https://github.com/DanteCampos/FlexRIC_Experiment```
 
 and run the `init.sh` script with
 
