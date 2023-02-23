@@ -9,3 +9,5 @@ Then, clone this repository with
 and run the `init.sh` script with
 
 ```sudo bash init.sh```
+
+[Video example](https://drive.google.com/file/d/1hrjh8dYPBsQGxHjufsNZlXFIsuQCRkLU/view?usp=share_link) of FlexRIC running with 3 nodes: E2 node, RIC and monitoring xApp.
